@@ -107,8 +107,8 @@ main{
 .Number-dial{
   margin-top: 24px;
   display: flex;
-  gap: 8px;
   align-items: center;
+  justify-content: space-between;
 }
 .btn-emergency{
   background-color: #FFE3E2;
